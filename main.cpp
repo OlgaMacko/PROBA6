@@ -8,7 +8,7 @@ int main() {
 
 
   cout << "MMM\n";
-  
+  cout << "iiiiiir\n";
 
   cout << "AL\n";
 
