@@ -5,7 +5,7 @@ int main() {
   cout << "OM\n";
 
   cout << "MMM\n";
-  cout << "VU\n";
+  cout << "ne\n";
 
   cout << "AL\n";
 
